@@ -2,6 +2,8 @@
 
 A web-based automatic attendance management system that uses **deep learning face recognition** to identify students and mark their attendance in real time — no manual entry required.
 
+![Dashboard Screenshot](https://raw.githubusercontent.com/Mohamedjasick/Attendance-System/main/static/images/dashboard.png)
+
 ---
 
 ## 📸 Demo
@@ -78,7 +80,7 @@ Attendance System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/attendance-system.git
+git clone https://github.com/Mohamedjasick/Attendance-System.git
 cd attendance-system
 ```
 
